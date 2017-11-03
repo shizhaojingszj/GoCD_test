@@ -1,0 +1,2 @@
+python -V
+virtualenv -V
